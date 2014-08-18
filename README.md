@@ -19,7 +19,7 @@ See `Modulefile` for details.
 
 ## Basic example
 
-### Sensu server
+### Graph Explorer server
 
     node 'graph_explorer.foo.com' {
       class { 'graph_explorer':
