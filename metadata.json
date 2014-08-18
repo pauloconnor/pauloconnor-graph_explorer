@@ -1,0 +1,17 @@
+{
+  "name": "pauloconnor-graph_explorer",
+  "version": "0.1.0",
+  "author": "pauloconnor",
+  "summary": "Installs Vimeo's Graph Explorer",
+  "license": "Apache 2.0",
+  "source": "github.com/pauloconnor/pauloconnor-graph_explorer",
+  "project_page": "https://github.com/pauloconnor/pauloconnor-graph_explorer",
+  "issues_url": "https://github.com/pauloconnor/pauloconnor-graph_explorer/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_range": ">= 1.0.0"
+    }
+  ]
+}
+
